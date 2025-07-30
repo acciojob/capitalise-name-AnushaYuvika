@@ -11,6 +11,6 @@ function upperCase(str) {
   }
   return s;
 }
- 
+  
 const s = prompt("Enter your name:");
 alert(upperCase(s));
